@@ -74,7 +74,7 @@ const industrial = () => {
                         production of powdered milk and butter for California Dairies, Inc., in Visalia, CA.
                         Plant 6
                         was
-                        completed in 2008, Plant 7 was completed in 2010 and Plant 8 completed in 2015. PID's
+                        completed in 2008, Plant 7 was completed in 2010 and Plant 8 completed in 2015. PID&apos;s
                         responsibilites included design of the utility piping, electric power distribution and
                         plumbing
                         design. Pictured: Plants 6 and 7, California Dairies, Inc., Visalia, CA.</p>
@@ -87,13 +87,13 @@ const industrial = () => {
                     <p>PID Engineering provided mechanical, electrical and structural design
                         for
                         the
-                        installation of a molecular gate system for the Southern California Gas Company's gas
+                        installation of a molecular gate system for the Southern California Gas Company&apos;s gas
                         storage
                         field
                         facility in Montebello, CA. The molecular gate removes heavy (non-methane) hydrocarbons
                         from
                         well
-                        gas before being sent into the Gas Company's distribution system to local customers.
+                        gas before being sent into the Gas Company&apos;s distribution system to local customers.
                         Pictured:
                         Molecular Gate Skid</p>
                 </div>
@@ -143,7 +143,7 @@ const industrial = () => {
                         heat and pressurize six 12 ft. diameter storage spheres with high temperature, high
                         pressure
                         hot
-                        water (400 psig, saturated) at TRW's San Juan Capistrano, CA, Test Facility. Pictured:
+                        water (400 psig, saturated) at TRW&apos;s San Juan Capistrano, CA, Test Facility. Pictured:
                         12 ft
                         diameter hot water storage spheres</p>
                 </div>

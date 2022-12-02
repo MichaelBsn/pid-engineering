@@ -25,12 +25,12 @@ const renewables = () => {
                         CO2, is used for low-BTU duct-firing of a heat recovery steam generator. The RNG, at over 98% methane,
                         is injected into the local utility pipeline.
 
-                        Depending on the dairy source, the 3,600 psig biogas and RNG are trucked to Calgren's receiving
+                        Depending on the dairy source, the 3,600 psig biogas and RNG are trucked to Calgren&apos;s receiving
                         station, where they are decompressed to 60 psig (duct-firing) or 450 psig (for injection into the
                         utility pipeline). PID was responsible for the design of the piping system, specification of
                         components (including heaters, regulators, instruments and control valves) and layout for use in
                         facility construction. The facility came on stream in 2020. Pictured: Delivery of biogas/RNG to
-                        Calgren's receiving facility.</p>
+                        Calgren&apos;s receiving facility.</p>
                 </div>
                 <div>
                     <h2>Calgreen Dairy Fuels Biogas Plant Piping</h2>

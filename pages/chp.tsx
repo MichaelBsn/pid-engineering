@@ -59,7 +59,7 @@ const chp = () => {
                             HRSG
                             to produce 5.2 MWe and 26,500 lb/hr of 145 psig saturated steam, respectively. Scope
                             included
-                            development of P&ID's, electrical single line diagrams, plant equipment layout,
+                            development of P&ID&apos;s, electrical single line diagrams, plant equipment layout,
                             piping/duct
                             design and stress analysis and related construction drawings and specification.</p>
                     </div>
@@ -89,10 +89,10 @@ const chp = () => {
                         <h3>San Diego, CA</h3>
                         <p>
                             PID Engineering provided mechanical, electrical, structural and architectural design
-                            services for the repowering of Kyocera's existing 3,200 kWe CHP plant. The new plant
+                            services for the repowering of Kyocera&apos;s existing 3,200 kWe CHP plant. The new plant
                             employs
                             two Caterpillar reciprocating generator sets to produce a gross 3,600 kWe for use at
-                            Kyocera's facility. Waste heat from the gensets will be used to produce 960 tons of
+                            Kyocera&apos;s facility. Waste heat from the gensets will be used to produce 960 tons of
                             chilled
                             water in new hot water absorption chillers. Pictured: Caterpillar 3520 genset.</p>
                     </div>
@@ -108,7 +108,7 @@ const chp = () => {
                             CHP plant portion of a central utility plant replacement at Los Angeles International
                             airport. The plant will consist of two (2) Solar Mercury 50 gas turbines exhausting into
                             two
-                            (2) duct-fired HRSG's which will produce up to 90,000 lb/hr of 150 psig saturated steam
+                            (2) duct-fired HRSG&apos;s which will produce up to 90,000 lb/hr of 150 psig saturated steam
                             for
                             use in the airport terminal heating and cooling systems. The combined 8,800 kWe gross
                             output
@@ -125,7 +125,7 @@ const chp = () => {
                         <p>PID Engineering is providing mechanical and electrical design services
                             for
                             the CHP plant for the new Energy Building planned for construction at New York
-                            University's
+                            University&apos;s
                             Langone Medical
                             Center. The plant will consist of an 8 MWe gas turbine exhausting into a HRSG to produce
                             up
@@ -162,7 +162,7 @@ const chp = () => {
                             HRSG.
                             The system generates 7,500 kWe of electric power and 70,000 lb/hr of 175 psig steam for
                             the
-                            Hospital's on-site use. Pictured: New York Presbyterian Hospital</p>
+                            Hospital&apos;s on-site use. Pictured: New York Presbyterian Hospital</p>
                     </div>
                 </div>
                 <div className='card'>
@@ -190,7 +190,7 @@ const chp = () => {
                             PID Engineering provided mechanical and electrical engineering design services for the
                             4.2 MWe La Jolla Veterans Affairs Medical Center CHP plant upgrade in San
                             Diego,California. The plant consists of a Solar Mercury 50 gas turbine with an HRSG
-                            producing steam for central plant use. Scope included development of P&ID's, general
+                            producing steam for central plant use. Scope included development of P&ID&apos;s, general
                             arrangement drawings, piping drawings, single line diagrams, wiring diagrams, equipment
                             specifications and performing piping stress analysis and electrical short
                             circuit/coordination studies. Click on links for articles. Pictured: Veterans Affairs
@@ -218,16 +218,16 @@ const chp = () => {
                         <h3>La Jolla, CA</h3>
                         <p>
                             PID Engineering performed engineering design for the installation of 2.2 MWe of CHP at
-                            Johnson & Johnson's Pharmaceutical Research Institute in La Jolla, CA.
+                            Johnson & Johnson&apos;s Pharmaceutical Research Institute in La Jolla, CA.
                             Using the results of a feasibility study performed by PID Engineering, J&J elected to
                             install two 1,100 kWe reciprocating generator sets to provide power to their facility.
                             Waste heat from the engines is utilized to produce chilled water and heating hot water
                             for facility HVAC loads.
-                            PID Engineering's study phase responsibilities included the development of electrical
+                            PID Engineering&apos;s study phase responsibilities included the development of electrical
                             and thermal load profiles, conceptual plant design, equipment layout, flow diagrams,
                             electrical single line diagrams and budget cost estimates for engineering, construction,
                             equipment and O&M.
-                            PID Engineering's detailed design phase responsibilities included process and
+                            PID Engineering&apos;s detailed design phase responsibilities included process and
                             instrumentation diagrams, equipment and piping layout, single line diagrams, wiring
                             diagrams, interface with SDG&E for the electrical interconnect application, construction
                             support and startup support.</p>
@@ -242,7 +242,7 @@ const chp = () => {
                             PID Engineering provided mechanical and electrical engineering design services to Energy
                             & Power Solutions for the 2 MWe White Wave (Dean Foods) CHP plant installation in the
                             City of Industry, California. Exhaust from the 2 MWe Jenbacher engine/generator set is
-                            used to generate steam and hot water for use in White Wave's dairy product processing.
+                            used to generate steam and hot water for use in White Wave&apos;s dairy product processing.
                             Pictured: Setting the 2 MWe Jenbacher genset on its foundation.</p>
                     </div>
                 </div>
@@ -254,7 +254,7 @@ const chp = () => {
                             14 MWe SDSU CHP plant upgrade in San Diego, California. SDSU installed two Solar Taurus
                             T60 gas turbines, each with an HRSG/SCR producing steam for central plant use and for
                             use in a steam turbine for additional power generation. Scope included development of
-                            the P&ID's, mechanical specifications, general arrangement drawings, piping drawings,
+                            the P&ID&apos;s, mechanical specifications, general arrangement drawings, piping drawings,
                             and performing piping stress analysis.</p>
                     </div>
                 </div>
@@ -264,7 +264,7 @@ const chp = () => {
 
                     <p>PID Engineering provided mechanical and electrical engineering design
                         services to Solar Turbines, Inc. for the 10 MWe Miller Brewing Co. CHP plant
-                        installation in Irwindale, California. Scope included development of P&ID's, general
+                        installation in Irwindale, California. Scope included development of P&ID&apos;s, general
                         arrangement drawings, piping drawings, single line diagrams, wiring diagrams, equipment
                         specifications and performing piping stress analysis and electrical short
                         circuit/coordination studies.</p>
