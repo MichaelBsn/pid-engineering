@@ -1,0 +1,75 @@
+$color-bg: #03045E;
+$color-main: #CAF0F8;
+$color-text-light: white;
+$color-text-dark: black;
+
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+        Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    background-color: $color-bg;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.App {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+header {
+    color: $color-text-light;
+    width: 90vw;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: $color-main;
+    max-width: 800px;
+    border-radius: 5px;
+    padding: 5px 15px 5px;
+}
+
+footer {
+    color: $color-text-light;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 90vw;
+}
+
+.img-container {
+    position: relative;
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+}

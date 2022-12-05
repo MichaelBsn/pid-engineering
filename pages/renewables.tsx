@@ -17,7 +17,14 @@ const renewables = () => {
                 <div>
                     <h2>Calgren Dairy Fuels Biogas Receiving Facility</h2>
                     <h3>Pixley, CA</h3>
-                    <Image src={ren1} alt="ren_calgren_1" />
+                    <div className="img-container">
+                        <Image src={ren1}
+                            alt="ren_calgren_1"
+                            fill
+                            sizes="(max-width: 768px) 100vw,
+              (max-width: 1200px) 50vw,
+              33vw" />
+                    </div>
                     <p>
                         Digester gas produced from cow manure at local dairy farms is processed at the dairy sites into
                         desulfurized and compressed (3,600 psig) biogas fuel. At some dairies, the CO2 is removed from the
@@ -35,7 +42,9 @@ const renewables = () => {
                 <div>
                     <h2>Calgreen Dairy Fuels Biogas Plant Piping</h2>
                     <h3>Pixley, CA</h3>
-                    <Image src={ren2} alt="" />
+                    <div className="img-container">
+                        <Image src={ren2} alt="" fill />
+                    </div>
                     <p>The Calgren Dairy Fuels Biogas Plant collects manure-derived digester gas from
                         local dairies. The biogas is conveyed through an underground piping network to the plant site where
                         it is desulfurized, compressed and used as fuel for an onsite gas turbine and duct burner. Some of

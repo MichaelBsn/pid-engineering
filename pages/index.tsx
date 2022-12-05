@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className='App'>
       <Head>
-        <title>Create Next App</title>
+        <title>PID Engineering</title>
       </Head>
       <Header />
       <main>
