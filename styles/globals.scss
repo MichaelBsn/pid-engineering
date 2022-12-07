@@ -22,7 +22,8 @@ a {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     text-align: center;
 }
 
@@ -35,6 +36,11 @@ h2 {
 header {
     color: $color-text-light;
     width: 90vw;
+    margin-bottom: 10px;
+
+    .logo {
+        padding: 10px;
+    }
 }
 
 nav {
@@ -43,6 +49,10 @@ nav {
     align-items: center;
     justify-content: center;
     text-align: center;
+
+    a {
+        margin: 5px 10px 5px;
+    }
 
     @media (min-width: 768px) {
         flex-direction: row;
@@ -57,14 +67,23 @@ main {
     max-width: 800px;
     border-radius: 5px;
     padding: 5px 15px 5px;
+
+    section {
+        width: 100%;
+    }
 }
 
 footer {
     color: $color-text-light;
     display: flex;
+    flex-direction: column;
     justify-content: space-evenly;
     text-align: center;
     width: 90vw;
+
+    @media (min-width: 768px) {
+        flex-direction: row;
+    }
 }
 
 .img-container {

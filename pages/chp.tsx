@@ -1,20 +1,7 @@
 import Header from "../public/components/Header"
 import Footer from "../public/components/Footer"
 import Head from "next/head"
-import Image from "next/image"
-import chpCalgren from '../public/images/chp_calgren_pixley.jpg'
-import chpTipton from '../public/images/chp_californiadairies_tipton.jpg'
-import chpCrmcfresno from '../public/images/chp_CRMC_Fresno.jpg'
-import chpFullerton from '../public/images/chp_csufullerton_fullerton.jpg'
-import chpJnj from '../public/images/chp_jnj_lajolla.jpg'
-import chpKyocera from '../public/images/chp_kyocera_sandiego.jpg'
-import chpLax from '../public/images/chp_lax_la.jpg'
-import chpNyp from '../public/images/chp_nypresbyterian_nyc.jpg'
-import chpNyu from '../public/images/chp_nyu_nyc.jpg'
-import chpPixley from '../public/images/chp_pixley_pixley.jpg'
-import chpPratt from '../public/images/chp_prattenergy_pratt.jpg'
-import chpVa from '../public/images/chp_vahospital_lajolla.jpg'
-import chpWhitewave from '../public/images/chp_whitewave_coi.jpg'
+
 
 const chp = () => {
     return (
@@ -26,7 +13,6 @@ const chp = () => {
             <main>
                 <h1>CHP Projects</h1>
                 <div className='card'>
-                    <div></div>
                     <div className='card-content'>
                         <h2>Community Regional Medical Center CHP</h2>
                         <h3>Fresno, CA</h3>
@@ -44,7 +30,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpPratt} alt="Pratt Energy, LLC CHP Plant" />
                     <div className='card-content'>
                         <h2>Pratt Energy, LLC CHP Plant</h2>
                         <h3>Pratt, KS</h3>
@@ -65,7 +50,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpCalgren} alt="Calgren Renewable Fuels CHP Plant Upgrade" />
                     <div className='card-content'>
                         <h2>Calgren Renewable Fuels CHP Plant Upgrade</h2>
                         <h3>Pixley, CA</h3>
@@ -82,7 +66,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpKyocera} alt="Kyocera America International CHP Plant Repowering" />
 
                     <div className='card-content'>
                         <h2>Kyocera America International CHP Plant Repowering</h2>
@@ -98,7 +81,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpLax} alt="Los Angeles International Airport CHP Plant" />
                     <div className='card-content'>
                         <h2>Los Angeles International Airport CHP Plant</h2>
                         <h3>Los Angeles, CA</h3>
@@ -118,7 +100,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpNyu} alt="New York University Langone Medical Center CHP Plant" />
                     <div className='card-content'>
                         <h2>New York University Langone Medical Center CHP Plant</h2>
                         <h3>New York, NY</h3>
@@ -134,7 +115,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpFullerton} alt="California State University Fullerton CHP Facility" />
                     <div className='card-content'>
                         <h2>California State University Fullerton CHP Facility</h2>
                         <h3>Fullerton, CA</h3>
@@ -152,7 +132,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpNyp} alt="New York Presbyterian Hospital CHP Plant" />
                     <div className='card-content'>
                         <h2>New York Presbyterian Hospital CHP Plant</h2>
                         <h3>New York, NY</h3>
@@ -166,7 +145,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpPixley} alt="Pixley CHP Facility" />
                     <div className='card-content'>
                         <h2>Pixley CHP Facility</h2>
                         <h3>Pixley, CA</h3>
@@ -182,7 +160,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpVa} alt="Veterans Affairs Medical Center CHP Plant" />
                     <div className='card-content'>
                         <h2>Veterans Affairs Medical Center CHP Plant</h2>
                         <h3>La Jolla, CA</h3>
@@ -198,7 +175,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpTipton} alt="California Dairies CHP Plant" />
                     <div className='card-content'>
                         <h2>California Dairies CHP Plant</h2>
                         <h3>Tipton, CA</h3>
@@ -212,7 +188,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpJnj} alt="Johnson & Johnson CHP Plant" />
                     <div className='card-content'>
                         <h2>Johnson & Johnson CHP Plant</h2>
                         <h3>La Jolla, CA</h3>
@@ -234,7 +209,6 @@ const chp = () => {
                     </div>
                 </div>
                 <div className='card'>
-                    <Image src={chpWhitewave} alt="White Wave CHP Plant" />
                     <div className='card-content'>
                         <h2>White Wave CHP Plant</h2>
                         <h3>City of Industry, CA</h3>

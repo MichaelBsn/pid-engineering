@@ -1,13 +1,6 @@
 import Header from "../public/components/Header"
 import Footer from "../public/components/Footer"
 import Head from "next/head"
-import Image from "next/image"
-import ipCalgren from '../public/images/ip_calgren.jpg'
-import ipDairy from '../public/images/ip_dairy.jpg'
-import ipDist from '../public/images/ip_distillation.jpg'
-import ipNgm from '../public/images/ip_naturalgasmolecular.jpg'
-import ipSjv from '../public/images/ip_sjvbiodiesel.jpg'
-import ipThermal from '../public/images/ip_thermaloxidizers.jpg'
 
 const industrial = () => {
     return (
@@ -21,7 +14,6 @@ const industrial = () => {
                 <div className='card'>
                     <h2>Calgren Dairy Fuels Biogas Plant Piping</h2>
                     <h3>Pixley, CA</h3>
-                    <Image src={ipCalgren} alt="" />
                     <p>The Calgren Dairy Fuels Biogas Plant collects manure-derived digester
                         gas
                         from
@@ -45,7 +37,7 @@ const industrial = () => {
                 <div className='card'>
                     <h2>SJV Biodiesel Facility Thermal Oil System Design</h2>
                     <h3>Pixley, CA</h3>
-                    <Image src={ipSjv} alt="" />
+
                     <p>
                         PID Engineering designed a hot thermal oil system for SJV Biodiesel plant in Pixley, CA.
                         The
@@ -65,7 +57,6 @@ const industrial = () => {
                 <div className='card'>
                     <h2>Dairy Expansion</h2>
                     <h3>Visalia, CA</h3>
-                    <Image src={ipDairy} alt="Dairy Expansion - Visalia, CA" />
                     <p>PID Engineering performed mechanical, electrical and plumbing design
                         for
                         the
@@ -83,7 +74,6 @@ const industrial = () => {
                 <div className='card'>
                     <h2>Natural Gas Molecular Gate System</h2>
                     <h3>Montebello, CA</h3>
-                    <Image src={ipNgm} alt="" />
                     <p>PID Engineering provided mechanical, electrical and structural design
                         for
                         the
@@ -100,7 +90,6 @@ const industrial = () => {
                 <div className='card'>
                     <h2>Distillation Unit</h2>
                     <h3>San Diego, CA</h3>
-                    <Image src={ipDist} alt="" />
                     <p>PID Engineering provided mechanical, electrical and structural design
                         engineering
                         services to Sithe Energies (Capital Power) for the installation of a water distillation
@@ -120,7 +109,6 @@ const industrial = () => {
                 <div className='card'>
                     <h2>Thermal Oxidizers</h2>
                     <h3>San Diego, CA</h3>
-                    <Image src={ipThermal} alt="" />
                     <p>PID Engineering provided mechanical and electrical design engineering
                         services
                         to

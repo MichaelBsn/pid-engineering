@@ -10,6 +10,7 @@ export default function Home() {
       </Head>
       <Header />
       <main>
+
         <section>
           <h1>PID Engineering</h1>
           <h2>Power and Industrial Design Corporation</h2>
@@ -18,6 +19,7 @@ export default function Home() {
             power and industrial clients.
           </p>
         </section>
+
         <section>
           <p>Typical industrial engineering design projects include:</p>
           <ul>
@@ -36,8 +38,7 @@ export default function Home() {
               self-regulating heat trace systems
             </li>
           </ul>
-        </section>
-        <section>
+
           <p>Engineering Design services include providing:</p>
           <ul>
             <li>System design and analysis</li>
